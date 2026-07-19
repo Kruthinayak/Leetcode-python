@@ -8,6 +8,6 @@ class Solution(object):
         while x:
             if x // div != x % 10: return False
             x=(x % div)// 10
-            div=div/100
+            div=div//100
         return True
         
