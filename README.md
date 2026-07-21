@@ -106,6 +106,5 @@ Each problem folder contains:
 
 ---
 
-⭐ **If you find this repository helpful, feel free to star it!**
 
 🚀 **New problems will be added daily as part of my LeetCode journey.**
