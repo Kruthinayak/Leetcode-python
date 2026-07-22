@@ -29,6 +29,11 @@ Leetcode-python
 │       ├── solution.py
 │       └── README.md
 │
+├── Sorting
+│   └── 0049_Group_Anagrams
+│       ├── solution.py
+│       └── README.md
+│
 └── README.md
 ```
 
@@ -42,21 +47,22 @@ Leetcode-python
 | 9 | Palindrome Number | Easy | Math |
 | 11 | Container With Most Water | Medium | Two Pointers |
 | 17 | Letter Combinations of a Phone Number | Medium | Backtracking |
+| 49 | Group Anagrams | Medium | Sorting |
 
 ---
 
 ## 📊 Progress
 
-- ✅ Total Problems Solved: **4**
+- ✅ Total Problems Solved: **5**
 - 🟢 Easy: **2**
-- 🟡 Medium: **2**
+- 🟡 Medium: **3**
 - 🔴 Hard: **0**
 
 ---
 
 ## 🎯 Goals
 
-- ✅ Solve LeetCode problems daily
+- ✅ Solve one LeetCode problem every day
 - ✅ Write clean and optimized Python solutions
 - ✅ Document the intuition and approach for every problem
 - ✅ Improve DSA and problem-solving skills
@@ -92,6 +98,7 @@ Each problem folder contains:
 - Math
 - Two Pointers
 - Backtracking
+- Sorting
 
 ---
 
@@ -103,8 +110,16 @@ Each problem folder contains:
 | ✅ Day 2 | Palindrome Number | Easy |
 | ✅ Day 3 | Container With Most Water | Medium |
 | ✅ Day 4 | Letter Combinations of a Phone Number | Medium |
+| ✅ Day 5 | Group Anagrams | Medium |
 
 ---
 
+## 🎯 Current Stats
+
+- 📌 Problems Solved: **5**
+- 📂 Topics Covered: **5**
+- 🔥 Current Streak: **5 Days**
+
+---
 
 🚀 **New problems will be added daily as part of my LeetCode journey.**
